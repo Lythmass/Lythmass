@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio website [https://lythmass.github.io/portfolio/](https://lythmass.github.io/portfolio/)
 
-- 📫 How to reach me **lythmass@gmail.com**
+- 📫 How to reach me **lythmass17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
