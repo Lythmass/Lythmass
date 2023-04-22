@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js / JavaScript**
 
-- 👨‍💻 My portfolio website [https://lythmass.github.io/portfolio/](https://lythmass.github.io/portfolio/)
+- 👨‍💻 My portfolio website [https://lythmass.netlify.app/](https://lythmass.netlify.app/)
 
 - 📫 How to reach me **lythmass17@gmail.com**
 
