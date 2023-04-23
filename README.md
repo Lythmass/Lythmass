@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Lythmass</h1>
+<h1 align="center">Hi there👋, I'm Gigi Lapachishvili</h1>
 <h3 align="center">A flamboyant developer from Georgia</h3>
 
 - 🌱 I’m currently learning **React.js / JavaScript**
