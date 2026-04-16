@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Gigi Lapachishvili</h1>
-<h3 align="center">A flamboyant developer from Georgia</h3>
+<h3 align="center">A programmer from Georgia</h3>
 
-- 🌱 I’m currently learning Full-stack web development
+- 🌱 I have expertise in web development, game development, and AI engineering.
 
 - 👨‍💻 My portfolio website [https://lythmass.netlify.app/](https://lythmass.netlify.app/)
 
