@@ -3,8 +3,6 @@
 
 - 🌱 I have expertise in web development, game development, and AI engineering.
 
-- 👨‍💻 My portfolio website [https://lythmass.netlify.app/](https://lythmass.netlify.app/)
-
 - 📫 How to reach me **gigilapachishvili@gmail.com**
 
 
